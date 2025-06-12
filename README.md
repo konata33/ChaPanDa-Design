@@ -1,5 +1,22 @@
-# Vue 3 + TypeScript + Vite
+# 🍃 茶百道网站设计
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+> 这是我为茶百道主题做的一次设计尝试 如果你觉得还不错的话 请给我一个🌟！ 
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+## 桌面端展示
+
+![首页展示](./public/showcase-1.png)
+
+![产品展示](./public/showcase-2.png)
+
+![门店展示](./public/showcase-3.png)
+
+![关于茶百道展示](./public/showcase-4.png)
+
+## 移动端展示
+![首页展示](./public/showcase-mobile-1.png)
+
+![产品展示](./public/showcase-mobile-2.png)
+
+![门店展示](./public/showcase-mobile-3.png)
+
+![关于茶百道展示](./public/showcase-mobile-4.png)
